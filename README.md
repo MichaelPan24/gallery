@@ -1,6 +1,6 @@
 #图片画廊
 
-###在线演示: https://ftconan.github.io/gallery-by-react/
+###在线演示: https://michaelpan24.github.io/gallery/
 
 ##安装运行
 
